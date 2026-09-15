@@ -1,4 +1,4 @@
-### Salut, moi c'est Flavio 👋
+### Hello there! Moi c'est Flavio 👋
 
 Étudiant en 3e année de **BUT Informatique à l'IUT d'Orléans**. Passionné de dev, j'aime concevoir des apps solides, bidouiller des données et explorer de nouvelles technos.
 
