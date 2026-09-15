@@ -25,7 +25,7 @@ Quand je ne suis pas en train de coder ou de debugger du python, je fais de la *
 #### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flavbtn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Flavbtn&theme=radical" alt="Trophies" />
 </p>
 
 ---
