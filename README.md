@@ -18,14 +18,14 @@
 
 Quand je ne suis pas en train de coder ou de debugger du python, je fais de la **MAO** (musique assistée par ordinateur) : composition, sound design et mixage.
 
-👉 [Jette une oreille à ce que j'écoute / produis sur Spotify](https://open.spotify.com/intl-fr/artist/5opeyu3aTO8pcq4bppNO9l)
+👉 [Jette une oreille à ce que je produis sur Spotify](https://open.spotify.com/intl-fr/artist/5opeyu3aTO8pcq4bppNO9l)
 
 ---
 
 #### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flavbtn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
