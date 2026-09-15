@@ -22,14 +22,6 @@ Quand je ne suis pas en train de coder ou de debugger du python, je fais de la *
 
 ---
 
-#### 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flavbtn&theme=radical" alt="Trophies" />
-</p>
-
----
-
 #### 📬 Me contacter
 
 - **LinkedIn :** [linkedin.com/in/TON_NOM_LINKEDIN]([https://www.linkedin.com/in/TON_NOM_LINKEDIN](https://www.linkedin.com/in/flavio-bouton/))
